@@ -1,0 +1,26 @@
+p{
+    color: purple;
+    font-size: xx-large;
+}
+h1{
+    color: coral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+h2{
+    color:mediumseagreen;
+
+}
+
+li{
+    color: cornflowerblue; //SELECCIONAR POR ELEMENTO
+}
+
+.caracteristicas-colombia {
+    color: yellow; //SELECCIONAR POR CLASE
+}
+
+
+#único-paisaje {
+    color: red; //SELECCIONAR POR ID
+}
+
